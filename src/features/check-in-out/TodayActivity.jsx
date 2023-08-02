@@ -56,7 +56,7 @@ function TodayActivity() {
             ))}
           </TodayList>
         ) : (
-          <NoActivity>No Activty today...</NoActivity>
+          <NoActivity>No Activity today...</NoActivity>
         )
       ) : (
         <Spinner />
